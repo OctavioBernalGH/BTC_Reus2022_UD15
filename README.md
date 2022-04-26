@@ -51,7 +51,7 @@ SELECT * FROM DESPACHOS;
 <details>
   <summary>Sentencias SQL ejercicio 2 UD15</summary>
 <br>
-En este ejercicio se realizan sentencias SQL hacia varias tablas para insertar datos y comprobar su correcto funcionamiento, a continuación vendrá el código utilizado.
+<p align="justify">En este ejercicio se realizan sentencias SQL hacia varias tablas para insertar datos y comprobar su correcto funcionamiento, a continuación vendrá el código utilizado.</p>
   
   ```sql
 -- INSERT EJERCICIO 2 UD15
@@ -104,8 +104,8 @@ SELECT * FROM SUMINISTRA;
  
  <details>
   <summary>Sentencias SQL ejercicio 3 UD15</summary>
-  
-En este ejercicio se realizan sentencias SQL hacia varias tablas para insertar datos y comprobar su correcto funcionamiento, a continuación vendrá el código utilizado.
+<br>
+<p align="justify">En este ejercicio se realizan sentencias SQL hacia varias tablas para insertar datos y comprobar su correcto funcionamiento, a continuación vendrá el código utilizado.</p>
   
   ```sql
 -- INSERT EJERCICIO 3 UNIDAD 15
