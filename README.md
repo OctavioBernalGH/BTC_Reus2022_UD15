@@ -151,6 +151,8 @@ SELECT * FROM ASIGNADO_A;
   ```
  </details>
 
+![UD15_EJERCICIO_4_EER](https://user-images.githubusercontent.com/103035621/165463322-32013a36-4037-49d8-be37-d475aeba1bb1.PNG)
+
 
 <details>
   <summary>Sentencias SQL ejercicio 4 UD15</summary>
